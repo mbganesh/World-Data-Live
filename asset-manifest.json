@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/World-Data-Live/static/css/main.e6c13ad2.css",
+    "main.js": "/World-Data-Live/static/js/main.bcc37655.js",
+    "static/js/787.f34d9497.chunk.js": "/World-Data-Live/static/js/787.f34d9497.chunk.js",
+    "index.html": "/World-Data-Live/index.html",
+    "main.e6c13ad2.css.map": "/World-Data-Live/static/css/main.e6c13ad2.css.map",
+    "main.bcc37655.js.map": "/World-Data-Live/static/js/main.bcc37655.js.map",
+    "787.f34d9497.chunk.js.map": "/World-Data-Live/static/js/787.f34d9497.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bcc37655.js"
+  ]
+}
